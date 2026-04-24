@@ -1,0 +1,2249 @@
+<?xml version="1.0"?>
+<Campaigns>
+
+
+
+
+
+    
+<!-- *********************************************************************** -->
+<!-- ******************* SANDBOX CAMPAIGN "From The Ground Up" ************* -->
+<!-- *********************************************************************** -->
+
+
+
+
+	
+
+	<Campaign Name="One_Planet_Multiplayer_Rebel">
+
+		<Campaign_Set> One_Planet_Multiplayer </Campaign_Set>
+		<Sort_Order>309</Sort_Order>
+
+        <Text_ID> 1 Planet Start </Text_ID>
+        <Description_Text> TEXT_CAMPAIGN_SINGLE_DESCRIPTION_FTGU_CW </Description_Text>
+
+        <Camera_Shift_X> 40.0 </Camera_Shift_X>
+        <Camera_Shift_Y> 0.0 </Camera_Shift_Y>
+        <Camera_Distance> 1200.0 </Camera_Distance>
+
+		<Locations>
+			Alderaan,
+			Alsakan,
+			Anaxes,
+			Ando,
+			Aargau,
+			Balmorra,
+			Bandomeer,
+			Basilisk,
+			Belgaroth,
+			Bomis_Koori,
+			Boz_Pity,
+			Brentaal,
+			Caamas,
+			Ord_Cantrell,
+			Carida,
+			Castell,
+			Cato_Neimoidia,
+			Ord_Cestus,
+			Charros,
+			Christophsis,
+			Colla,
+			Corellia,
+			Coruscant,
+			Deko_Neimoidia,
+			Emberlene,
+			Eriadu,
+			Felucia,
+			Florrum,
+			Foerost,
+			Fondor,
+			Galaxy_Core_Art_Model,
+			Geonosis,
+			Ithor,
+			Jabiim,
+			Kamino,
+			Kashyyyk,
+			Khomm,
+			Krant,
+			Kuat,
+			Mandalore,
+			Ord_Mantell,
+			Mechis,
+			Minntooine,
+			Mon_Calamari,
+			Mustafar,
+			Muunilinst,
+			Mygeeto,
+			Naboo,
+			Nelvaan,
+			Pammant,
+			Ord_Pardron,
+			Praesitlyn,
+			Raxus,
+			Raxus_Second,
+			Rendili,
+			Rhen_Var,
+			Rishi,
+			Rothana,
+			Roxuli,
+			Saleucami,
+			Sarapin,
+			Serenno,
+			Sy_Myrth,
+			Thule,
+			Tibrin,
+			Ord_Trasi,
+			Umbara,
+			Utapau,
+		</Locations>
+
+		<Trade_Routes>
+			Aargau_Alderaan,
+			Aargau_Coruscant,
+			Alderaan_Brentaal,
+			Alderaan_Caamas,
+			Alderaan_Kuat,
+			Alderaan_Sarapin,
+			Alsakan_Anaxes,
+			Alsakan_Coruscant,
+			Anaxes_Basilisk,
+			Anaxes_Ord_Mantell,
+			Ando_Christophsis,
+			Ando_Emberlene,
+			Ando_Ord_Pardron,
+			Balmorra_Colla,
+			Balmorra_Deko_Neimoidia,
+			Balmorra_Kuat,
+			Bandomeer_Ord_Cestus,
+			Bandomeer_Ithor,
+			Bandomeer_Mandalore,
+			Basilisk_Caamas,
+			Belgaroth_Bomis_Koori,
+			Belgaroth_Fondor,
+			Belgaroth_Roxuli,
+			Brentaal_Carida,
+			Brentaal_Caamas,
+			Bomis_Koori_Mechis,
+			Bomis_Koori_Tibrin,
+			Boz_Pity_Charros,
+			Boz_Pity_Kashyyyk,
+			Boz_Pity_Pammant,
+			Boz_Pity_Rishi,
+			Ithor_Ord_Cantrell,
+			Ord_Cantrell_Ord_Mantell,
+			Mygeeto_Ord_Cantrell,
+			Ord_Cantrell_Ord_Trasi,
+			Carida_Castell,
+			Carida_Kuat,
+			Castell_Colla,
+			Cato_Neimoidia_Deko_Neimoidia,
+			Cato_Neimoidia_Corellia,
+			Cato_Neimoidia_Rendili,
+			Ord_Cestus_Serenno,
+			Charros_Saleucami,
+			Christophsis_Geonosis,
+			Christophsis_Naboo,
+			Christophsis_Nelvaan,
+			Colla_Mandalore,
+			Corellia_Fondor,
+			Corellia_Rendili,
+			Coruscant_Foerost,
+			Deko_Neimoidia_Emberlene,
+			Deko_Neimoidia_Umbara,
+			Emberlene_Kashyyyk,
+			Emberlene_Krant,
+			Eriadu_Naboo,
+			Eriadu_Praesitlyn,
+			Eriadu_Tibrin,
+			Felucia_Florrum,
+			Felucia_Raxus,
+			Felucia_Rhen_Var,
+			Felucia_Serenno,
+			Florrum_Thule,
+			Foerost_Khomm,
+			Fondor_Khomm,
+			Fondor_Mechis,
+			Geonosis_Nelvaan,
+			Geonosis_Ord_Pardron,
+			Ithor_Mandalore,
+			Ithor_Ord_Mantell,
+			Jabiim_Pammant,
+			Jabiim_Saleucami,
+			Jabiim_Sy_Myrth,
+			Kamino_Krant,
+			Kamino_Ord_Pardron,
+			Kamino_Rishi,
+			Kamino_Rothana,
+			Kashyyyk_Umbara,
+			Krant_Rishi,
+			Kuat_Sarapin,
+			Mandalore_Sy_Myrth,
+			Ord_Mantell_Roxuli,
+			Minntooine_Mon_Calamari,
+			Minntooine_Raxus,
+			Mon_Calamari_Pammant,
+			Mustafar_Tibrin,
+			Mustafar_Utapau,
+			Muunilinst_Mygeeto,
+			Muunilinst_Ord_Trasi,
+			Mygeeto_Ord_Trasi,
+			Praesitlyn_Utapau,
+			Nelvaan_Praesitlyn,
+			Raxus_Raxus_Second,
+			Rendili_Sarapin,
+			Rhen_Var_Sy_Myrth,
+			Rishi_Rothana,
+			Saleucami_Sy_Myrth,
+			Serenno_Thule,
+		</Trade_Routes>
+		
+        <Home_Location> Rebel, Raxus </Home_Location>
+		<Home_Location> Empire, Coruscant </Home_Location>
+
+        <Starting_Active_Player> Rebel </Starting_Active_Player>
+		<Is_Multiplayer>True</Is_Multiplayer>
+
+		<Rebel_Story_Name>Conquests\Progressive\Story_Plots_Sandbox_CloneWars_CIS.xml</Rebel_Story_Name>
+        <Empire_Story_Name>Conquests\Progressive\Story_Plots_Sandbox_CloneWars_Republic.xml</Empire_Story_Name>	
+
+		<Markup_Filename>Empire, DefaultGalacticHints </Markup_Filename>
+		<Markup_Filename>Rebel, DefaultGalacticHints </Markup_Filename>
+		
+		<Supports_Custom_Settings>True</Supports_Custom_Settings>
+		<Show_Completed_Tab>True</Show_Completed_Tab>
+
+		<!-- Win Conditions -->
+
+		<Human_Victory_Conditions>
+				Galactic_All_Planets_Controlled
+		</Human_Victory_Conditions>
+
+		<AI_Victory_Conditions>
+				Galactic_All_Planets_Controlled
+		</AI_Victory_Conditions>
+
+		<Starting_Credits> Independent_Forces,  300000 </Starting_Credits>
+		
+		<!-- Rebel Starting Forces -->
+
+		<Starting_Credits> Rebel,  20000 </Starting_Credits>
+		<Starting_Tech_Level> Rebel, 4 </Starting_Tech_Level>
+		<Max_Tech_Level> Rebel, 4 </Max_Tech_Level>
+		
+		
+		<!-- Serenno Space Forces -->
+		<Starting_Forces> Rebel, Serenno, CIS_Shipyard_Level_Two </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, NewRepublic_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, C9979_Carrier </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, Hardcell</Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, Hardcell </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, Munificent </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, Munificent </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, Invisible_Hand</Starting_Forces>
+		<!-- Serenno Land Forces -->
+		<Starting_Forces> Rebel, Serenno, NewRep_SenatorsOffice </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, R_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, NewRep_Senate </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, B1_Droid_Squad </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, B1_Droid_Squad </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, Persuader_Company </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, Dooku_Team</Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, Gunray_Team</Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, Ventress_Team</Starting_Forces>
+		
+		<!-- Empire Starting Forces -->
+		
+		<Starting_Credits> Empire,  20000 </Starting_Credits>
+		<Starting_Tech_Level> Empire, 5 </Starting_Tech_Level>
+		<Max_Tech_Level> Empire, 5 </Max_Tech_Level>
+		
+		
+		<!-- Coruscant Space Forces -->
+		<Starting_Forces> Empire, Coruscant, Republic_Shipyard_Level_Two </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Arquitens </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, LAC </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Yularen_Integrity</Starting_Forces>
+		<!-- Coruscant Land Forces -->
+		<Starting_Forces> Empire, Coruscant, Empire_MoffPalace </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Remnant_Capital </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Republic_BARC_Company </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Clonetrooper_Phase_Two_Team </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Republic_AT_RT_Company </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Yoda_Delta</Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Windu_Delta</Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Padme_Amidala_Team</Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Alsakan, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Republic_ULAV_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Anaxes, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Anaxes, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Anaxes, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Anaxes, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Anaxes, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Anaxes, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Anaxes, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Anaxes, Republic_ULAV_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Ando, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ando, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ando, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ando, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ando, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ando, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ando, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ando, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ando, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ando, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ando, Republic_ULAV_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Aargau, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Aargau, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Aargau, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Aargau, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Aargau, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Aargau, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Aargau, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Aargau, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Aargau, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Aargau, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Balmorra, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Balmorra, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Balmorra, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Balmorra, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Balmorra, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Balmorra, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Balmorra, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Balmorra, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Bandomeer, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Republic_AT_PT_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Basilisk, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Basilisk, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Basilisk, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Basilisk, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Basilisk, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Basilisk, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Basilisk, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Basilisk, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Basilisk, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Basilisk, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Basilisk, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Belgaroth, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Belgaroth, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Belgaroth, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Belgaroth, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Belgaroth, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Belgaroth, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Belgaroth, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Belgaroth, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Belgaroth, Republic_A4_Juggernaut_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Republic_A4_Juggernaut_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Boz_Pity, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Boz_Pity, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Boz_Pity, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Boz_Pity, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Boz_Pity, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Boz_Pity, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Boz_Pity, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Boz_Pity, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Boz_Pity, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Boz_Pity, Republic_Gaba18_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Brentaal, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, Republic_ULAV_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Caamas, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Republic_Gaba18_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Ord_Cantrell, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cantrell, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cantrell, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cantrell, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cantrell, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cantrell, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cantrell, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cantrell, Republic_A4_Juggernaut_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Carida, Empire_Star_Base_5 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Carida, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Carida, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Carida, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Carida, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Carida, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Carida, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Carida, Republic_VAAT_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Castell, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, Republic_A4_Juggernaut_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Cato_Neimoidia, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Cato_Neimoidia, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Cato_Neimoidia, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Cato_Neimoidia, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Cato_Neimoidia, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Cato_Neimoidia, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Cato_Neimoidia, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Cato_Neimoidia, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Cato_Neimoidia, Republic_Navy_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Ord_Cestus, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, Republic_Trooper_Team </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Charros, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Charros, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Charros, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Charros, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Charros, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Charros, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Charros, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Charros, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Charros, Republic_ULAV_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Christophsis, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Republic_AT_PT_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Colla, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Colla, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Colla, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Colla, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Colla, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Colla, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Colla, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Colla, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Colla, Republic_VAAT_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Corellia, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Republic_VAAT_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Deko_Neimoidia, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Deko_Neimoidia, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Deko_Neimoidia, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Deko_Neimoidia, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Deko_Neimoidia, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Deko_Neimoidia, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Deko_Neimoidia, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Deko_Neimoidia, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Deko_Neimoidia, Republic_Navy_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Emberlene, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, Republic_VAAT_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Eriadu, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Republic_Navy_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Felucia, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Felucia, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Felucia, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Felucia, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Felucia, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Felucia, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Felucia, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Felucia, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Felucia, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Felucia, Republic_Trooper_Team </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Florrum, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Florrum, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Florrum, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Florrum, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Florrum, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Florrum, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Florrum, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Florrum, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Florrum, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Florrum, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Florrum, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Florrum, Republic_VAAT_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Foerost, Empire_Star_Base_5 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Republic_Gaba18_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Fondor, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Republic_Navy_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Geonosis, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Republic_Trooper_Team </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Ithor, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ithor, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ithor, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ithor, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ithor, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ithor, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ithor, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ithor, Republic_Navy_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Jabiim, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Jabiim, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Jabiim, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Jabiim, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Jabiim, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Jabiim, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Jabiim, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Jabiim, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Jabiim, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Jabiim, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Jabiim, Republic_VAAT_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Kamino, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kamino, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kamino, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kamino, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kamino, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kamino, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kamino, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kamino, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kamino, Republic_Navy_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Kashyyyk, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kashyyyk, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kashyyyk, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kashyyyk, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kashyyyk, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kashyyyk, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kashyyyk, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kashyyyk, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kashyyyk, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kashyyyk, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kashyyyk, Republic_A4_Juggernaut_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Khomm, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, Republic_Navy_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Krant, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Republic_Trooper_Team </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Kuat, Empire_Star_Base_5 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Mandalore, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mandalore, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mandalore, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mandalore, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mandalore, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mandalore, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mandalore, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mandalore, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mandalore, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mandalore, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mandalore, Republic_AT_PT_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Republic_Trooper_Team </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Mechis, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mechis, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mechis, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mechis, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mechis, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mechis, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mechis, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mechis, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mechis, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mechis, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mechis, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Minntooine, Empire_Star_Base_5 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Republic_Gaba18_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Mon_Calamari, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mon_Calamari, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mon_Calamari, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mon_Calamari, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mon_Calamari, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mon_Calamari, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mon_Calamari, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mon_Calamari, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mon_Calamari, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mon_Calamari, Republic_AT_PT_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Mustafar, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Republic_VAAT_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Muunilinst, Empire_Star_Base_5 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, Republic_Navy_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Mygeeto, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mygeeto, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mygeeto, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mygeeto, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mygeeto, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mygeeto, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mygeeto, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mygeeto, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Naboo, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Republic_Trooper_Team </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Nelvaan, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Pammant, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Republic_Trooper_Team </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Republic_Navy_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Praesitlyn, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Praesitlyn, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Praesitlyn, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Praesitlyn, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Praesitlyn, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Praesitlyn, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Praesitlyn, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Praesitlyn, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Praesitlyn, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Praesitlyn, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Praesitlyn, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Praesitlyn, Republic_ULAV_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Raxus, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus, Republic_VAAT_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Raxus_Second, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus_Second, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus_Second, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus_Second, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus_Second, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus_Second, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus_Second, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus_Second, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus_Second, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus_Second, Republic_ULAV_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Rendili, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Republic_A4_Juggernaut_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Rhen_Var, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Republic_A4_Juggernaut_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Rishi, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rishi, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rishi, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rishi, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rishi, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rishi, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rishi, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rishi, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rishi, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rishi, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Rothana, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Republic_AT_PT_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Roxuli, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Republic_Gaba18_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Saleucami, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Saleucami, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Saleucami, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Saleucami, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Saleucami, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Saleucami, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Saleucami, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Saleucami, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Saleucami, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Saleucami, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Saleucami, Republic_ULAV_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Sarapin, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Republic_AT_PT_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Sy_Myrth, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sy_Myrth, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sy_Myrth, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sy_Myrth, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sy_Myrth, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sy_Myrth, Republic_ULAV_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Thule, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Republic_Gaba18_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Tibrin, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Tibrin, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Tibrin, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Tibrin, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Tibrin, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Tibrin, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Tibrin, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Tibrin, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Tibrin, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Tibrin, Republic_Trooper_Team </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Ord_Trasi, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Trasi, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Trasi, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Trasi, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Trasi, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Trasi, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Trasi, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Trasi, Republic_VAAT_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Umbara, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Umbara, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Umbara, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Umbara, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Umbara, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Umbara, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Umbara, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Umbara, Republic_Navy_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Utapau, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Republic_Trooper_Team </Starting_Forces>
+
+				
+	</Campaign>	
+
+	
+	<Campaign Name="One_Planet_Multiplayer_Empire">
+
+		<Campaign_Set> One_Planet_Multiplayer </Campaign_Set>
+		<Sort_Order>309</Sort_Order>
+
+        <Text_ID> TEXT_CAMPAIGN_SINGLE_FTGU </Text_ID>
+        <Description_Text> TEXT_CAMPAIGN_SINGLE_DESCRIPTION_FTGU_CW </Description_Text>
+
+        <Camera_Shift_X> 40.0 </Camera_Shift_X>
+        <Camera_Shift_Y> 0.0 </Camera_Shift_Y>
+        <Camera_Distance> 1200.0 </Camera_Distance>
+
+		<Locations>
+			Alderaan,
+			Alsakan,
+			Anaxes,
+			Ando,
+			Aargau,
+			Balmorra,
+			Bandomeer,
+			Basilisk,
+			Belgaroth,
+			Bomis_Koori,
+			Boz_Pity,
+			Brentaal,
+			Caamas,
+			Ord_Cantrell,
+			Carida,
+			Castell,
+			Cato_Neimoidia,
+			Ord_Cestus,
+			Charros,
+			Christophsis,
+			Colla,
+			Corellia,
+			Coruscant,
+			Deko_Neimoidia,
+			Emberlene,
+			Eriadu,
+			Felucia,
+			Florrum,
+			Foerost,
+			Fondor,
+			Galaxy_Core_Art_Model,
+			Geonosis,
+			Ithor,
+			Jabiim,
+			Kamino,
+			Kashyyyk,
+			Khomm,
+			Krant,
+			Kuat,
+			Mandalore,
+			Ord_Mantell,
+			Mechis,
+			Minntooine,
+			Mon_Calamari,
+			Mustafar,
+			Muunilinst,
+			Mygeeto,
+			Naboo,
+			Nelvaan,
+			Pammant,
+			Ord_Pardron,
+			Praesitlyn,
+			Raxus,
+			Raxus_Second,
+			Rendili,
+			Rhen_Var,
+			Rishi,
+			Rothana,
+			Roxuli,
+			Saleucami,
+			Sarapin,
+			Serenno,
+			Sy_Myrth,
+			Thule,
+			Tibrin,
+			Ord_Trasi,
+			Umbara,
+			Utapau,
+		</Locations>
+
+		<Trade_Routes>
+			Aargau_Alderaan,
+			Aargau_Coruscant,
+			Alderaan_Brentaal,
+			Alderaan_Caamas,
+			Alderaan_Kuat,
+			Alderaan_Sarapin,
+			Alsakan_Anaxes,
+			Alsakan_Coruscant,
+			Anaxes_Basilisk,
+			Anaxes_Ord_Mantell,
+			Ando_Christophsis,
+			Ando_Emberlene,
+			Ando_Ord_Pardron,
+			Balmorra_Colla,
+			Balmorra_Deko_Neimoidia,
+			Balmorra_Kuat,
+			Bandomeer_Ord_Cestus,
+			Bandomeer_Ithor,
+			Bandomeer_Mandalore,
+			Basilisk_Caamas,
+			Belgaroth_Bomis_Koori,
+			Belgaroth_Fondor,
+			Belgaroth_Roxuli,
+			Brentaal_Carida,
+			Brentaal_Caamas,
+			Bomis_Koori_Mechis,
+			Bomis_Koori_Tibrin,
+			Boz_Pity_Charros,
+			Boz_Pity_Kashyyyk,
+			Boz_Pity_Pammant,
+			Boz_Pity_Rishi,
+			Ithor_Ord_Cantrell,
+			Ord_Cantrell_Ord_Mantell,
+			Mygeeto_Ord_Cantrell,
+			Ord_Cantrell_Ord_Trasi,
+			Carida_Castell,
+			Carida_Kuat,
+			Castell_Colla,
+			Cato_Neimoidia_Deko_Neimoidia,
+			Cato_Neimoidia_Corellia,
+			Cato_Neimoidia_Rendili,
+			Ord_Cestus_Serenno,
+			Charros_Saleucami,
+			Christophsis_Geonosis,
+			Christophsis_Naboo,
+			Christophsis_Nelvaan,
+			Colla_Mandalore,
+			Corellia_Fondor,
+			Corellia_Rendili,
+			Coruscant_Foerost,
+			Deko_Neimoidia_Emberlene,
+			Deko_Neimoidia_Umbara,
+			Emberlene_Kashyyyk,
+			Emberlene_Krant,
+			Eriadu_Naboo,
+			Eriadu_Praesitlyn,
+			Eriadu_Tibrin,
+			Felucia_Florrum,
+			Felucia_Raxus,
+			Felucia_Rhen_Var,
+			Felucia_Serenno,
+			Florrum_Thule,
+			Foerost_Khomm,
+			Fondor_Khomm,
+			Fondor_Mechis,
+			Geonosis_Nelvaan,
+			Geonosis_Ord_Pardron,
+			Ithor_Mandalore,
+			Ithor_Ord_Mantell,
+			Jabiim_Pammant,
+			Jabiim_Saleucami,
+			Jabiim_Sy_Myrth,
+			Kamino_Krant,
+			Kamino_Ord_Pardron,
+			Kamino_Rishi,
+			Kamino_Rothana,
+			Kashyyyk_Umbara,
+			Krant_Rishi,
+			Kuat_Sarapin,
+			Mandalore_Sy_Myrth,
+			Ord_Mantell_Roxuli,
+			Minntooine_Mon_Calamari,
+			Minntooine_Raxus,
+			Mon_Calamari_Pammant,
+			Mustafar_Tibrin,
+			Mustafar_Utapau,
+			Muunilinst_Mygeeto,
+			Muunilinst_Ord_Trasi,
+			Mygeeto_Ord_Trasi,
+			Praesitlyn_Utapau,
+			Nelvaan_Praesitlyn,
+			Raxus_Raxus_Second,
+			Rendili_Sarapin,
+			Rhen_Var_Sy_Myrth,
+			Rishi_Rothana,
+			Saleucami_Sy_Myrth,
+			Serenno_Thule,
+		</Trade_Routes>
+        <Home_Location> Rebel, Raxus </Home_Location>
+		<Home_Location> Empire, Coruscant </Home_Location>
+
+        <Starting_Active_Player> Empire </Starting_Active_Player>
+		<Is_Multiplayer>True</Is_Multiplayer>
+		<Is_Listed>False</Is_Listed>
+
+		<Rebel_Story_Name>Conquests\Progressive\Story_Plots_Sandbox_CloneWars_CIS.xml</Rebel_Story_Name>
+        <Empire_Story_Name>Conquests\Progressive\Story_Plots_Sandbox_CloneWars_Republic.xml</Empire_Story_Name>	
+
+		<Markup_Filename>Empire, DefaultGalacticHints </Markup_Filename>
+		<Markup_Filename>Rebel, DefaultGalacticHints </Markup_Filename>
+		
+		<Supports_Custom_Settings>True</Supports_Custom_Settings>
+		<Show_Completed_Tab>True</Show_Completed_Tab>
+
+		<!-- Win Conditions -->
+
+		<Human_Victory_Conditions>
+				Galactic_All_Planets_Controlled
+		</Human_Victory_Conditions>
+
+		<AI_Victory_Conditions>
+				Galactic_All_Planets_Controlled
+		</AI_Victory_Conditions>
+
+		<Starting_Credits> Independent_Forces,  300000 </Starting_Credits>
+		
+		<!-- Rebel Starting Forces -->
+
+		<Starting_Credits> Rebel,  20000 </Starting_Credits>
+		<Starting_Tech_Level> Rebel, 4 </Starting_Tech_Level>
+		<Max_Tech_Level> Rebel, 4 </Max_Tech_Level>
+		
+		
+		<!-- Serenno Space Forces -->
+		<Starting_Forces> Rebel, Serenno, CIS_Shipyard_Level_Two </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, NewRepublic_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, C9979_Carrier </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, Hardcell</Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, Hardcell </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, Munificent </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, Munificent </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, Invisible_Hand</Starting_Forces>
+		<!-- Serenno Land Forces -->
+		<Starting_Forces> Rebel, Serenno, NewRep_SenatorsOffice </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, R_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, NewRep_Senate </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, B1_Droid_Squad </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, B1_Droid_Squad </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, Persuader_Company </Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, Dooku_Team</Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, Gunray_Team</Starting_Forces>
+		<Starting_Forces> Rebel, Serenno, Ventress_Team</Starting_Forces>
+		
+		<!-- Empire Starting Forces -->
+		
+		<Starting_Credits> Empire,  20000 </Starting_Credits>
+		<Starting_Tech_Level> Empire, 5 </Starting_Tech_Level>
+		<Max_Tech_Level> Empire, 5 </Max_Tech_Level>
+		
+		
+		<!-- Coruscant Space Forces -->
+		<Starting_Forces> Empire, Coruscant, Republic_Shipyard_Level_Two </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Arquitens </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, LAC </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Yularen_Integrity</Starting_Forces>
+		<!-- Coruscant Land Forces -->
+		<Starting_Forces> Empire, Coruscant, Empire_MoffPalace </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Remnant_Capital </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Republic_BARC_Company </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Clonetrooper_Phase_Two_Team </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Republic_AT_RT_Company </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Yoda_Delta</Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Windu_Delta</Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Padme_Amidala_Team</Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Alsakan, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Alsakan, Republic_ULAV_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Anaxes, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Anaxes, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Anaxes, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Anaxes, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Anaxes, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Anaxes, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Anaxes, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Anaxes, Republic_ULAV_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Ando, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ando, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ando, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ando, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ando, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ando, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ando, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ando, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ando, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ando, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ando, Republic_ULAV_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Aargau, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Aargau, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Aargau, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Aargau, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Aargau, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Aargau, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Aargau, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Aargau, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Aargau, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Aargau, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Balmorra, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Balmorra, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Balmorra, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Balmorra, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Balmorra, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Balmorra, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Balmorra, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Balmorra, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Bandomeer, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bandomeer, Republic_AT_PT_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Basilisk, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Basilisk, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Basilisk, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Basilisk, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Basilisk, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Basilisk, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Basilisk, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Basilisk, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Basilisk, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Basilisk, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Basilisk, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Belgaroth, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Belgaroth, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Belgaroth, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Belgaroth, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Belgaroth, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Belgaroth, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Belgaroth, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Belgaroth, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Belgaroth, Republic_A4_Juggernaut_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Bomis_Koori, Republic_A4_Juggernaut_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Boz_Pity, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Boz_Pity, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Boz_Pity, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Boz_Pity, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Boz_Pity, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Boz_Pity, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Boz_Pity, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Boz_Pity, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Boz_Pity, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Boz_Pity, Republic_Gaba18_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Brentaal, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Brentaal, Republic_ULAV_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Caamas, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Caamas, Republic_Gaba18_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Ord_Cantrell, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cantrell, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cantrell, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cantrell, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cantrell, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cantrell, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cantrell, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cantrell, Republic_A4_Juggernaut_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Carida, Empire_Star_Base_5 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Carida, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Carida, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Carida, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Carida, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Carida, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Carida, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Carida, Republic_VAAT_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Castell, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Castell, Republic_A4_Juggernaut_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Cato_Neimoidia, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Cato_Neimoidia, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Cato_Neimoidia, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Cato_Neimoidia, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Cato_Neimoidia, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Cato_Neimoidia, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Cato_Neimoidia, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Cato_Neimoidia, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Cato_Neimoidia, Republic_Navy_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Ord_Cestus, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Cestus, Republic_Trooper_Team </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Charros, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Charros, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Charros, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Charros, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Charros, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Charros, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Charros, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Charros, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Charros, Republic_ULAV_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Christophsis, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Christophsis, Republic_AT_PT_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Colla, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Colla, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Colla, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Colla, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Colla, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Colla, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Colla, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Colla, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Colla, Republic_VAAT_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Corellia, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Corellia, Republic_VAAT_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Deko_Neimoidia, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Deko_Neimoidia, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Deko_Neimoidia, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Deko_Neimoidia, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Deko_Neimoidia, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Deko_Neimoidia, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Deko_Neimoidia, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Deko_Neimoidia, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Deko_Neimoidia, Republic_Navy_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Emberlene, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Emberlene, Republic_VAAT_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Eriadu, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Eriadu, Republic_Navy_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Felucia, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Felucia, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Felucia, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Felucia, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Felucia, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Felucia, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Felucia, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Felucia, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Felucia, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Felucia, Republic_Trooper_Team </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Florrum, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Florrum, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Florrum, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Florrum, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Florrum, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Florrum, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Florrum, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Florrum, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Florrum, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Florrum, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Florrum, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Florrum, Republic_VAAT_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Foerost, Empire_Star_Base_5 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Foerost, Republic_Gaba18_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Fondor, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Fondor, Republic_Navy_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Geonosis, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Geonosis, Republic_Trooper_Team </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Ithor, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ithor, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ithor, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ithor, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ithor, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ithor, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ithor, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ithor, Republic_Navy_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Jabiim, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Jabiim, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Jabiim, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Jabiim, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Jabiim, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Jabiim, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Jabiim, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Jabiim, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Jabiim, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Jabiim, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Jabiim, Republic_VAAT_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Kamino, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kamino, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kamino, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kamino, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kamino, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kamino, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kamino, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kamino, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kamino, Republic_Navy_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Kashyyyk, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kashyyyk, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kashyyyk, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kashyyyk, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kashyyyk, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kashyyyk, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kashyyyk, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kashyyyk, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kashyyyk, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kashyyyk, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kashyyyk, Republic_A4_Juggernaut_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Khomm, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Khomm, Republic_Navy_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Krant, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Krant, Republic_Trooper_Team </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Kuat, Empire_Star_Base_5 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Kuat, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Mandalore, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mandalore, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mandalore, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mandalore, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mandalore, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mandalore, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mandalore, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mandalore, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mandalore, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mandalore, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mandalore, Republic_AT_PT_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Mantell, Republic_Trooper_Team </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Mechis, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mechis, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mechis, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mechis, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mechis, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mechis, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mechis, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mechis, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mechis, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mechis, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mechis, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Minntooine, Empire_Star_Base_5 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Minntooine, Republic_Gaba18_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Mon_Calamari, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mon_Calamari, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mon_Calamari, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mon_Calamari, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mon_Calamari, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mon_Calamari, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mon_Calamari, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mon_Calamari, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mon_Calamari, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mon_Calamari, Republic_AT_PT_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Mustafar, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mustafar, Republic_VAAT_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Muunilinst, Empire_Star_Base_5 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Muunilinst, Republic_Navy_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Mygeeto, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mygeeto, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mygeeto, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mygeeto, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mygeeto, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mygeeto, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mygeeto, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Mygeeto, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Naboo, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Naboo, Republic_Trooper_Team </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Nelvaan, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Nelvaan, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Pammant, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Pammant, Republic_Trooper_Team </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Pardron, Republic_Navy_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Praesitlyn, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Praesitlyn, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Praesitlyn, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Praesitlyn, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Praesitlyn, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Praesitlyn, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Praesitlyn, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Praesitlyn, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Praesitlyn, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Praesitlyn, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Praesitlyn, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Praesitlyn, Republic_ULAV_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Raxus, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus, Republic_VAAT_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Raxus_Second, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus_Second, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus_Second, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus_Second, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus_Second, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus_Second, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus_Second, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus_Second, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus_Second, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Raxus_Second, Republic_ULAV_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Rendili, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Republic_AT_PT_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rendili, Republic_A4_Juggernaut_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Rhen_Var, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rhen_Var, Republic_A4_Juggernaut_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Rishi, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rishi, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rishi, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rishi, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rishi, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rishi, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rishi, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rishi, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rishi, Republic_ULAV_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rishi, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Rothana, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Rothana, Republic_AT_PT_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Roxuli, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Roxuli, Republic_Gaba18_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Saleucami, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Saleucami, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Saleucami, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Saleucami, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Saleucami, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Saleucami, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Saleucami, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Saleucami, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Saleucami, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Saleucami, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Saleucami, Republic_ULAV_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Sarapin, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sarapin, Republic_AT_PT_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Sy_Myrth, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sy_Myrth, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sy_Myrth, Galleon </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sy_Myrth, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sy_Myrth, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Sy_Myrth, Republic_ULAV_Company </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Thule, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Customs_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Dreadnaught </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Republic_Gaba18_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Thule, Republic_Gaba18_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Tibrin, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Tibrin, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Tibrin, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Tibrin, Citadel_Cruiser_Squadron </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Tibrin, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Tibrin, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Tibrin, Generic_Acclamator_Assault_Ship_Leveler </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Tibrin, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Tibrin, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Tibrin, Republic_Trooper_Team </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Ord_Trasi, Empire_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Trasi, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Trasi, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Trasi, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Trasi, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Trasi, Corellian_Corvette </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Trasi, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Ord_Trasi, Republic_VAAT_Group </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Umbara, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Umbara, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Umbara, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Umbara, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Umbara, Republic_VAAT_Group </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Umbara, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Umbara, Republic_Overracer_Speeder_Bike_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Umbara, Republic_Navy_Trooper_Squad </Starting_Forces>
+		
+		<Starting_Forces> Sector_Forces, Utapau, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Revolt_PDF_HQ </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Dreadnaught_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Dreadnaught_Carrier </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, IPV1_System_Patrol_Craft </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Carrack_Cruiser_Lasers </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Generic_Acclamator_Assault_Ship_I </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Class_C_Support </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Class_C_Frigate </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Corellian_Gunboat </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Republic_Trooper_Team </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Republic_A4_Juggernaut_Company </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Republic_Navy_Trooper_Squad </Starting_Forces>
+		<Starting_Forces> Sector_Forces, Utapau, Republic_Trooper_Team </Starting_Forces>
+	</Campaign>
+ 
+ </Campaigns>
